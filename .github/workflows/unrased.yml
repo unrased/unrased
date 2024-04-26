@@ -10,8 +10,6 @@ name: unrased.py
 
 on:
   release: 0.1
-    types: [published]
-
 permissions:
   contents: read
 
